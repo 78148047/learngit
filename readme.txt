@@ -1,2 +1,2 @@
 This is my first git repository.
-Git is free. 
+Git is free under the GPL. 
